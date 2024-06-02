@@ -42,7 +42,6 @@
     "vm-browserify": "^1.1.2",
     "w3name": "^1.0.8",
     "web-vitals": "^2.1.4",
-    "web3.storage": "^4.5.5"
   },
   "scripts": {
     "start": "react-app-rewired start",
